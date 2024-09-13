@@ -1,0 +1,1 @@
+pip install customtkinter tkinter PyPDF2 pywin32 striprtf pycryptodome python-docx pillow
