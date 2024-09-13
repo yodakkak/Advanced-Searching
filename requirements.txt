@@ -1,1 +1,6 @@
+If you want to run the program through a terminal, you'll want to install the dependencies through the following command:
+
 pip install customtkinter tkinter PyPDF2 pywin32 striprtf pycryptodome python-docx pillow
+
+
+But if you download the portable exe, you don't need to go through this step.
